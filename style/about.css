@@ -14,7 +14,6 @@ body {
 #menuknap_wrapper {
     display: flex;
     justify-content: flex-end;
-    /*    width: 100%;*/
     padding-right: 10px;
     color: black;
     margin-top: -39px;
